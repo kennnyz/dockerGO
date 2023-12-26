@@ -1,0 +1,1 @@
+This repository provides a basic example for setting up a Dockerized application using Docker and Docker Compose.
